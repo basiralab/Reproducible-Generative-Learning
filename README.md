@@ -80,8 +80,19 @@ Alaa Bessadok, Mohamed Ali Mahjoub, Islem Rekik. Brain multigraph prediction usi
 
 Nicolas George, Islem Mhiri, Islem Rekik. Identifying the best data-driven feature selection method for boosting reproducibility in classification tasks. In Pattern Recognition 101 (2020).
 
-## Link of the paper
-To be uploaded soon.
+## YouTube video of our paper
+
+https://youtu.be/-R1PrnX80FE
 
 ## Please cite the following paper when using our framework
-To be uploaded soon.
+
+```latex
+@inproceedings{gharsallaoui2021,
+  title={Investigating and Quantifying the Reproducibility of Graph Neural Networks in Predictive Medicine},
+  author={Gharsallaoui, Mohammed Amine and Tornaci, Furkan and Rekik, Islem},
+  booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+  pages={104--116},
+  year={2021},
+  organization={Springer}
+}
+```
